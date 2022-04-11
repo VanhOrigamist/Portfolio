@@ -209,3 +209,11 @@ body {
     margin-top: 4px;
     border-radius: 320px;
 }
+.codingame{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    top: 17px;
+    right: 50px;
+}
